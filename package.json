@@ -1,0 +1,11 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Web Scraper",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kieran Derfus",
+  "license": "ISC"
+}

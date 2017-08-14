@@ -1,5 +1,7 @@
 # scraper.js
 
+Part of the backend functionality for 'AtomizeThis'
+
 Scraper.js traverses a user-given Wikipedia article, finds all of the hyperlinks in that article, and returns an array of objects containing:
   1. the keyword from each hyperlink
   2. the number of occurences of that keyword in the article
